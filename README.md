@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Computer Science at Northeastern University.
+- 🔭 I’m currently looking for SDE Internships/Co-Ops.
 <!--
 **ldgze/ldgze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
