@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Computer Science at Northeastern University.
-- 🔭 I’m currently looking for SDE Internships/Co-Ops.
+- 💻 I’m a Full Stack Developer at EnCiv, where I build dynamic online deliberation platforms using JavaScript, React, Node.js, and MongoDB.
+- 🎓 I hold a Master's degree in Computer Science from Northeastern University and a strong background in Materials Science from Shanghai Jiao Tong University.
+- 🔭 I’m currently looking for full-time Software Development Engineer (SDE) opportunities to further apply and expand my skills.
 <!--
 **ldgze/ldgze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
